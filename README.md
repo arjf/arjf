@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<picture>
+  <img src="/metrics.terminal.svg" alt="Metrics">
+</picture>
+
 <!--
 **ajdjyt/ajdjyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
